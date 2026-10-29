@@ -31,6 +31,3 @@ Simdex is an open-source organization and community: a digital workshop where de
 2. Open an issue to propose an idea, ask a question or report a bug.
 3. Send a pull request. If it's your first contribution, say so in the description and we'll review it with you.
 
-## Brand
-
-Logos, colors, typography and usage guidelines live in [simdex-org/brand](https://github.com/simdex-org/brand). Please use the official SVG files instead of recreating the logo.
